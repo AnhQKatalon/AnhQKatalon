@@ -44,5 +44,5 @@ I am Anh Quach. People usually call me Tony. I am currently an DevOps Engineer f
 
 <img alt = "GitHub Stats" src="https://github-readme-stats-eta-navy-80.vercel.app/api?username=AnhQKatalon&show_icons=true">
 
-### ♥️♥️ Việt Nam đẹp lắm tôi ơi !!! ♥️♥️
-<img alt = "Vietnam 1" width="600" src="https://cdn.baohatinh.vn/desktop/news/1834/137d4072501t4057l6-00640081hdrpano.jpg">
+### ♥️♥️ Việt Nam is soooo beautiful !!! ♥️♥️
+<img alt = "Vietnam 1" width="1920" src="https://cdn.baohatinh.vn/desktop/news/1834/137d4072501t4057l6-00640081hdrpano.jpg">
