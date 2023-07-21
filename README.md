@@ -4,16 +4,16 @@ I am Anh Quach. People usually call me Tony. I am currently an DevOps Engineer f
 
 ### 🚀 Infrastructure as Code
 [![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
-[![Ansible](https://img.shields.io/badge/-Ansible-000000?style=flat-square&logo=ansible&logoColor=white)](https://www.ansible.com/)
+[![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)](https://www.ansible.com/)
 
 ### ⚡ Technology
-[![Azure](https://img.shields.io/badge/-Microsoft%20Azure-0078d3?style=flat-square&logo=microsoft-azure&logoColor=white)](https://www.azure.com/)
-[![AWS](https://img.shields.io/badge/-Amazon%20AWS-232f3e?style=flat-square&logo=amazon-aws&logoColor=ff9900)](https://www.aws.amazon.com/)
-[![Kubernetes](https://img.shields.io/badge/-Kubernetes-303030?style=flat-square&logo=Kubernetes)](https://kubernetes.io/)
+[![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://www.azure.com/)
+[![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.aws.amazon.com/)
+[![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 
 ### 🔰 CI-CD
 [![ArgoCD](https://img.shields.io/badge/Argo%20CD-1e0b3e?style=for-the-badge&logo=argo&logoColor=#d16044)](https://argo-cd.readthedocs.io/)
-[![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078d3?style=flat-square&logo=azure-devops&logoColor=white)](https://www.dev.azure.com/)
+[![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)](https://www.dev.azure.com/)
 [![Jenkins](https://img.shields.io/badge/-Jenkins-d33833?style=flat-square&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
 
 ### ⚓ Source Control
