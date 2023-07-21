@@ -23,8 +23,8 @@ I am Anh Quach. People usually call me Tony. I am currently an DevOps Engineer f
 
 ### 📈 Observability Solutions
 [![Grafana](https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9)](https://grafana.com/)
-[![Prometheus](https://img.shields.io/badge/-Prometheus-222222?style=flat-square&logo=prometheus)](https://prometheus.io/)
-[![ZABBIX](https://img.shields.io/badge/-ZABBIX-d40000?style=flat-square&logo=zabbix)](https://www.zabbix.com/)
+[![Prometheus](https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&labelColor=000000)](https://prometheus.io/)
+[![ZABBIX](https://img.shields.io/badge/-ZABBIX-d40000?style=for-the-badge&logo=zabbix)](https://www.zabbix.com/)
 
 ### 💻 Languages
 [![PHP](https://img.shields.io/badge/-PHP-46a2f1?style=flat-square&logo=php&logoColor=white)](https://www.ansible.com/)
