@@ -14,12 +14,13 @@ I am Anh Quach. People usually call me Tony. I am currently an DevOps Engineer f
 ### 🔰 CI-CD
 [![ArgoCD](https://img.shields.io/badge/Argo%20CD-1e0b3e?style=for-the-badge&logo=argo&logoColor=#d16044)](https://argo-cd.readthedocs.io/)
 [![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)](https://www.dev.azure.com/)
-[![Jenkins](https://img.shields.io/badge/-Jenkins-d33833?style=flat-square&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
+[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)](https://www.jenkins.io/)
+[![Github Action](https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe)](https://github.com/features/actions)
 
 ### ⚓ Source Control
-[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/)
-[![GitLab](https://img.shields.io/badge/-GitLab-292961?style=flat-square&logo=gitlab)](https://gitlab.com/)
+[![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/)
 
 ### 📈 Observability Solutions
 [![Grafana](https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9)](https://grafana.com/)
@@ -27,13 +28,13 @@ I am Anh Quach. People usually call me Tony. I am currently an DevOps Engineer f
 [![ZABBIX](https://img.shields.io/badge/-ZABBIX-d40000?style=for-the-badge&logo=zabbix)](https://www.zabbix.com/)
 
 ### 💻 Languages
-[![PHP](https://img.shields.io/badge/-PHP-46a2f1?style=flat-square&logo=php&logoColor=white)](https://www.ansible.com/)
-[![Bash Shell](https://img.shields.io/badge/-Bash%20Shell-1f425f?style=flat-square&logo=GNU-bash&logoColor=white)](https://www.gnu.org/software/bash/)
-[![YAML](https://img.shields.io/badge/-YAML-47a248?style=flat-square)](https://www.gnu.org/software/bash/)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.ansible.com/)
+[![Bash Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![YAML](https://img.shields.io/badge/-YAML-47a248?style=for-the-badge)](https://www.gnu.org/software/bash/)
 
 ### ⚔️ Framework
-[![Laravel](https://img.shields.io/badge/-Laravel-ff2d20?style=flat-square&logo=laravel&logoColor=white)](https://laravel.com/)
-[![Wordpress](https://img.shields.io/badge/-Wordpress-135e96?style=flat-square&logo=wordpress)](https://wordpress.com/)
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
+[![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://wordpress.com/)
 
 ### 📧 How to contact me ?
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/sheid1309)
